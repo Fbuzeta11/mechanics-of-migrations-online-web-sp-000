@@ -5,4 +5,8 @@ class CreateArtists <
   
     def down
   end
+  
+  def change
+end
+
 end
